@@ -1,3 +1,4 @@
+Twisted < 12.0
 whisper >=0.9.10,<0.10.0
 carbon >=0.9.10,<0.10.0
 graphite-web >=0.9.10,<0.10.0
